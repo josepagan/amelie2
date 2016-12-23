@@ -3,7 +3,8 @@
     margin-left: -15px;
     margin-bottom: 20px;
 }
-body {background-color: silver}
+body {background-color: silver;
+      padding-top: 70px}
 
 .whatever {
   margin-top: 30px;
